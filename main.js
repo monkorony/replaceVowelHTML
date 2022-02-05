@@ -1,5 +1,5 @@
 /* 
-  Here are 2 approaches I would try. There is probably a better way to go about it. If you have some time, I would love to read your feedback on the best way to implement the solution. Thank you for your time and it was great so speak with both of you.
+  Here are 2 approaches I would try. There is probably a better way to go about it. If you have some time, I would love to read your feedback on the best way to implement the solution. Thank you for your time and it was great speaking with both of you.
 
 
   -------- First option that I thought of -------------
